@@ -1,6 +1,0 @@
-DRY : Function needs to be added for find contact, find contact details, find user
-KISS : code is preety state-forward
-YAGNI : No unrequired code found
-SOC : crud on ContactDetails should be in Contact class, found in User class, no all User list
-TDA : For CRUD operation, dependency on calling code to find the concerned object to do operations on.
-        Extra work for calling funtion code would make it complex.
